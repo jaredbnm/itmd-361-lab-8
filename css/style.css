@@ -10,7 +10,7 @@
 }
 
 #main-navbar ul {
-  list-style: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
   position: relative;
@@ -42,7 +42,7 @@
 
 #sidebar {
   position: fixed;
-  right: 0%;
+  right:0%;
   background-color: red;
   height: 100%;
   width: 20%;
